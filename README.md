@@ -14,9 +14,9 @@ Total Casualties and Accidents by Location on Map
 
 Tools Used
 
-Power BI Desktop
-Power Query (Data Cleaning and Transformation)
-DAX (Calculated Measures and Time Intelligence)
+Power BI Desktop,
+Power Query (Data Cleaning and Transformation),
+DAX (Calculated Measures and Time Intelligence),
 Microsoft Bing Maps
 
 Dataset
