@@ -5,11 +5,17 @@ A Power BI dashboard built to analyze UK road accident data for 2021 and 2022. C
 Requirements
 
 Primary KPI: Total Casualties and Total Accidents for Current Year and YoY growth
+
 Primary KPI: Total Casualties by Accident Severity and YoY growth
+
 Secondary KPI: Total Casualties by Vehicle Type
+
 Monthly trend comparison of Current Year vs Previous Year casualties
+
 Casualties by Road Type
+
 Casualties by Area (Urban vs Rural) and by Light Condition (Day vs Night)
+
 Total Casualties and Accidents by Location on Map
 
 Tools Used
